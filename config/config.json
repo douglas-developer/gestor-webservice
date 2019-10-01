@@ -1,0 +1,41 @@
+{
+    "development" : {
+        "username": "",
+        "password": "",
+        "database": "",
+        "host": "",
+        "dialect": "mssql",
+        "logging" : false,
+        "operatorsAliases": false,
+        "freezeTableName": true,
+        "dialectOptions": {
+          "encrypt": true  
+        }
+    },
+    "production" : {
+        "username": "",
+        "password": "",
+        "database": "",
+        "host": "",
+        "dialect": "mssql",
+        "logging" : false,
+        "operatorsAliases": false,
+        "freezeTableName": true,
+        "dialectOptions": {
+          "encrypt": true  
+        }
+    },
+    "appVersion" : "1.1.0",
+    "secret" : "45e4b255526645d0fcdzinfa56207ebc1069",
+    "facebookClientID" : "3",
+    "facebookClientSecret" : "",
+    "tokenExpirationTime" : 360000,
+    "admTokenExpirationTime" : 720000,
+    "valorRateioEntregador" : 6.00,
+    "valorRateioBillin" : 6.00,
+    "valorRateioRevendedor" : 6.00,
+    "firebaseApiKey": "",
+    "authDomain": ""
+    
+
+}
